@@ -1,1 +1,18 @@
-
+[
+    {
+        "date": "March 30, 2024",
+        "title": "Season 9 Anarchy Closed Beta",
+        "summary": "Welcome to the Closed Beta for Project Diablo 2 Season 9 Anarchy!",
+        "content": "`Season 9` Anarchy is comming, and it's bringing a host of new features, items, and improvements to Project Diablo 2. \n\nStay tuned for our live updates every Saturday at 10:00 am PST on [Twitch](https://www.twitch.tv/senpaisomething) \n\nFor more details, check out our [Reddit announcement](https://www.reddit.com/r/ProjectDiablo2/comments/1b54dsw/first_dev_stream_and_season_9_date_announcement/).",
+        "image": null,
+        "link": "https://www.reddit.com/r/ProjectDiablo2/comments/1b54dsw/first_dev_stream_and_season_9_date_announcement/"
+    },
+    {
+        "date": "March 12, 2024",
+        "title": "Project Diablo 2",
+        "summary": "A mod by passionate Diablo 2 fans aiming to maintain the Lord of Destruction experience with consistent ladder resets and improvements as if development never ceased.",
+        "content": "Welcome to **Project Diablo 2**, a mod created by dedicated fans of the original game. We strive to keep the essence of Diablo 2's Lord of Destruction expansion alive while incorporating quality-of-life improvements and new features to enhance the classic gameplay experience.\n\nFor more information and to become a part of our growing community, [click here](https://www.projectdiablo2.com/).",
+        "image": "https://www.projectdiablo2.com/image/portal.png",
+        "link": "https://www.projectdiablo2.com/news"
+    }
+]
